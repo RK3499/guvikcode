@@ -1,7 +1,7 @@
-import  java.util.*;
+import java.util.*;
 class array
 {
-    public static  void main(String arg[])
+    public static void main(String arg[])
     {
         Scanner input=new Scanner(System.in);
         int n=input.nextInt();
